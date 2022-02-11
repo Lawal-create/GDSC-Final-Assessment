@@ -44,4 +44,3 @@ first.
     - Repository
     - Hosted API URL
     - Postman Collection
-    - A list of tasks you did beyond **Simple Mode**
