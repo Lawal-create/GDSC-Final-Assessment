@@ -3,7 +3,7 @@
 Create an API that manages the menu order for a restaurant.
 
 ## Prerequisites
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/)/ Typescript
 - [npm](https://www.npmjs.com/)
 - [Express](https://expressjs.com/)
 - [PostgreSQL](https://www.postgresql.org/)
